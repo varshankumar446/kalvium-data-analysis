@@ -1,0 +1,1018 @@
+{
+    "Total Constituencies": 239,
+    "Total Votes Per Candidate": [
+        {
+            "Candidate": "ABHIJIT GANGOPADHYAY",
+            "Votes": 765584
+        },
+        {
+            "Candidate": "ADHIKARI SOUMENDU",
+            "Votes": 763195
+        },
+        {
+            "Candidate": "AJAY BHATT",
+            "Votes": 772671
+        },
+        {
+            "Candidate": "AJAY TAMTA",
+            "Votes": 429167
+        },
+        {
+            "Candidate": "ALOK SHARMA",
+            "Votes": 981109
+        },
+        {
+            "Candidate": "AMARSING TISSO",
+            "Votes": 334620
+        },
+        {
+            "Candidate": "AMIT SHAH",
+            "Votes": 1010972
+        },
+        {
+            "Candidate": "ANAND KUMAR",
+            "Votes": 518802
+        },
+        {
+            "Candidate": "ANANTA NAYAK",
+            "Votes": 573923
+        },
+        {
+            "Candidate": "ANIL BALUNI",
+            "Votes": 432159
+        },
+        {
+            "Candidate": "ANIL FIROJIYA",
+            "Votes": 836104
+        },
+        {
+            "Candidate": "ANITA NAGARSINGH CHOUHAN",
+            "Votes": 795863
+        },
+        {
+            "Candidate": "ANITA SUBHADARSHINI",
+            "Votes": 494226
+        },
+        {
+            "Candidate": "ANNPURNA DEVI",
+            "Votes": 791657
+        },
+        {
+            "Candidate": "ANOOP PRADHAN BALMIKI",
+            "Votes": 554746
+        },
+        {
+            "Candidate": "ANUP SANJAY DHOTRE",
+            "Votes": 457030
+        },
+        {
+            "Candidate": "ANURAG SHARMA",
+            "Votes": 690316
+        },
+        {
+            "Candidate": "ANURAG SINGH THAKUR",
+            "Votes": 607068
+        },
+        {
+            "Candidate": "APARAJITA SARANGI",
+            "Votes": 512519
+        },
+        {
+            "Candidate": "ARJUN RAM MEGHWAL",
+            "Votes": 566737
+        },
+        {
+            "Candidate": "ARUN GOVIL",
+            "Votes": 546469
+        },
+        {
+            "Candidate": "ARUN KUMAR SAGAR",
+            "Votes": 592718
+        },
+        {
+            "Candidate": "ARUNA. D. K",
+            "Votes": 510747
+        },
+        {
+            "Candidate": "ARVIND DHARMAPURI",
+            "Votes": 592318
+        },
+        {
+            "Candidate": "ASHISH DUBEY",
+            "Votes": 790133
+        },
+        {
+            "Candidate": "ASHOK KUMAR RAWAT",
+            "Votes": 475016
+        },
+        {
+            "Candidate": "ASHOK KUMAR YADAV",
+            "Votes": 553428
+        },
+        {
+            "Candidate": "ATUL GARG",
+            "Votes": 854170
+        },
+        {
+            "Candidate": "AVIMANYU SETHI",
+            "Votes": 573319
+        },
+        {
+            "Candidate": "B.Y.RAGHAVENDRA",
+            "Votes": 778721
+        },
+        {
+            "Candidate": "BAIJAYANT PANDA",
+            "Votes": 615705
+        },
+        {
+            "Candidate": "BALABHADRA MAJHI",
+            "Votes": 481396
+        },
+        {
+            "Candidate": "BANDI SANJAY KUMAR",
+            "Votes": 585116
+        },
+        {
+            "Candidate": "BANSURI SWARAJ",
+            "Votes": 453185
+        },
+        {
+            "Candidate": "BASAVARAJ BOMMAI",
+            "Votes": 705538
+        },
+        {
+            "Candidate": "BHAGIRATH CHOUDHARY",
+            "Votes": 747462
+        },
+        {
+            "Candidate": "BHARAT SINGH KUSHWAH",
+            "Votes": 671535
+        },
+        {
+            "Candidate": "BHARATBHAI MANUBHAI SUTARIYA",
+            "Votes": 580872
+        },
+        {
+            "Candidate": "BHARTI PARDHI",
+            "Votes": 712660
+        },
+        {
+            "Candidate": "BHARTRUHARI MAHTAB",
+            "Votes": 531601
+        },
+        {
+            "Candidate": "BHOJRAJ NAG",
+            "Votes": 597624
+        },
+        {
+            "Candidate": "BHUPATHI RAJU SRINIVASA VARMA (B.J.P.VARMA)",
+            "Votes": 707343
+        },
+        {
+            "Candidate": "BHUPENDER YADAV",
+            "Votes": 631992
+        },
+        {
+            "Candidate": "BIBHU PRASAD TARAI",
+            "Votes": 589093
+        },
+        {
+            "Candidate": "BIDYUT BARAN MAHATO",
+            "Votes": 726174
+        },
+        {
+            "Candidate": "BIJULI KALITA MEDHI",
+            "Votes": 894887
+        },
+        {
+            "Candidate": "BIPLAB KUMAR DEB",
+            "Votes": 881341
+        },
+        {
+            "Candidate": "BISHNU PADA RAY",
+            "Votes": 102436
+        },
+        {
+            "Candidate": "BRIJMOHAN AGRAWAL",
+            "Votes": 1050351
+        },
+        {
+            "Candidate": "BUNTY VIVEK SAHU",
+            "Votes": 644738
+        },
+        {
+            "Candidate": "C R PATIL",
+            "Votes": 1031065
+        },
+        {
+            "Candidate": "C.M.RAMESH",
+            "Votes": 762069
+        },
+        {
+            "Candidate": "CAPTAIN BRIJESH CHOWTA",
+            "Votes": 764132
+        },
+        {
+            "Candidate": "CHANDRA PRAKASH JOSHI",
+            "Votes": 888202
+        },
+        {
+            "Candidate": "CHANDUBHAI CHHAGANBHAI SHIHORA",
+            "Votes": 669749
+        },
+        {
+            "Candidate": "CHAVDA VINOD LAKHAMSHI",
+            "Votes": 659574
+        },
+        {
+            "Candidate": "CHHATRA PAL SINGH GANGWAR",
+            "Votes": 567127
+        },
+        {
+            "Candidate": "CHINTAMANI MAHARAJ",
+            "Votes": 713200
+        },
+        {
+            "Candidate": "CHUDASAMA RAJESHBHAI NARANBHAI",
+            "Votes": 584049
+        },
+        {
+            "Candidate": "DABHI  BHARATSINHJI  SHANKARJI",
+            "Votes": 591947
+        },
+        {
+            "Candidate": "DAGGUBATI PURANDHESHWARI",
+            "Votes": 726515
+        },
+        {
+            "Candidate": "DAMODAR AGARWAL",
+            "Votes": 807640
+        },
+        {
+            "Candidate": "DARSHAN SINGH CHOUDHARY",
+            "Votes": 812147
+        },
+        {
+            "Candidate": "DELKAR KALABEN MOHANBHAI",
+            "Votes": 121074
+        },
+        {
+            "Candidate": "DEVENDRA SINGH ALIAS BHOLE SINGH",
+            "Votes": 517423
+        },
+        {
+            "Candidate": "DEVUSINH CHAUHAN",
+            "Votes": 744435
+        },
+        {
+            "Candidate": "DHARAMBIR SINGH",
+            "Votes": 588664
+        },
+        {
+            "Candidate": "DHARMENDRA PRADHAN",
+            "Votes": 592162
+        },
+        {
+            "Candidate": "DHAVAL LAXMANBHAI PATEL",
+            "Votes": 764226
+        },
+        {
+            "Candidate": "DILIP SAIKIA",
+            "Votes": 868387
+        },
+        {
+            "Candidate": "DINESHBHAI MAKWANA (ADVOCATE)",
+            "Votes": 611704
+        },
+        {
+            "Candidate": "DR BHOLA SINGH",
+            "Votes": 597310
+        },
+        {
+            "Candidate": "DR C N MANJUNATH",
+            "Votes": 1079002
+        },
+        {
+            "Candidate": "DR JAYANTA KUMAR ROY",
+            "Votes": 766568
+        },
+        {
+            "Candidate": "DR JITENDRA SINGH",
+            "Votes": 571076
+        },
+        {
+            "Candidate": "DR RAJEEV BHARDWAJ",
+            "Votes": 632793
+        },
+        {
+            "Candidate": "DR. HEMANG JOSHI",
+            "Votes": 873189
+        },
+        {
+            "Candidate": "DR. HEMANT VISHNU SAVARA",
+            "Votes": 601244
+        },
+        {
+            "Candidate": "DR. LATA WANKHEDE",
+            "Votes": 787979
+        },
+        {
+            "Candidate": "DR. MAHESH SHARMA",
+            "Votes": 857829
+        },
+        {
+            "Candidate": "DR. MANSUKH MANDAVIYA",
+            "Votes": 633118
+        },
+        {
+            "Candidate": "DR. PRADEEP KUMAR PANIGRAHY",
+            "Votes": 513102
+        },
+        {
+            "Candidate": "DR. RAJESH MISHRA",
+            "Votes": 583559
+        },
+        {
+            "Candidate": "DR. VINOD KUMAR BIND",
+            "Votes": 459982
+        },
+        {
+            "Candidate": "DR. VIRENDRA KUMAR",
+            "Votes": 715050
+        },
+        {
+            "Candidate": "DR.K.SUDHAKAR",
+            "Votes": 822619
+        },
+        {
+            "Candidate": "DR.SANJAY JAISWAL",
+            "Votes": 580421
+        },
+        {
+            "Candidate": "DULU MAHATO",
+            "Votes": 789172
+        },
+        {
+            "Candidate": "DURGADAS (D. D.) UIKEY",
+            "Votes": 848236
+        },
+        {
+            "Candidate": "DUSHYANT SINGH",
+            "Votes": 865376
+        },
+        {
+            "Candidate": "EATALA RAJENDER",
+            "Votes": 991042
+        },
+        {
+            "Candidate": "FAGGAN SINGH KULASTE",
+            "Votes": 751375
+        },
+        {
+            "Candidate": "G. KISHAN REDDY",
+            "Votes": 473012
+        },
+        {
+            "Candidate": "GADDIGOUDAR. PARVATAGOUDA. CHANDANAGOUDA.",
+            "Votes": 671039
+        },
+        {
+            "Candidate": "GAJENDRA SINGH PATEL",
+            "Votes": 819863
+        },
+        {
+            "Candidate": "GAJENDRA SINGH SHEKHAWAT",
+            "Votes": 730056
+        },
+        {
+            "Candidate": "GANESH SINGH",
+            "Votes": 459728
+        },
+        {
+            "Candidate": "GIRIRAJ SINGH",
+            "Votes": 649331
+        },
+        {
+            "Candidate": "GODAM NAGESH",
+            "Votes": 568168
+        },
+        {
+            "Candidate": "GOPAL JEE THAKUR",
+            "Votes": 566630
+        },
+        {
+            "Candidate": "GOVIND MAKTHAPPA KARJOL",
+            "Votes": 684890
+        },
+        {
+            "Candidate": "GYANESHWAR PATIL",
+            "Votes": 862679
+        },
+        {
+            "Candidate": "HARIBHAI PATEL",
+            "Votes": 686406
+        },
+        {
+            "Candidate": "HARSH MALHOTRA",
+            "Votes": 664819
+        },
+        {
+            "Candidate": "HASMUKHBHAI PATEL (H.S.PATEL)",
+            "Votes": 770459
+        },
+        {
+            "Candidate": "HEMAMALINI DHARMENDRA DEOL",
+            "Votes": 510064
+        },
+        {
+            "Candidate": "JAGADISH SHETTAR",
+            "Votes": 762029
+        },
+        {
+            "Candidate": "JAGANNATH SARKAR",
+            "Votes": 782396
+        },
+        {
+            "Candidate": "JAGDAMBIKA PAL",
+            "Votes": 463303
+        },
+        {
+            "Candidate": "JAI PRAKASH",
+            "Votes": 486798
+        },
+        {
+            "Candidate": "JANARDAN MISHRA",
+            "Votes": 477459
+        },
+        {
+            "Candidate": "JANARDAN SINGH \"SIGRIWAL\"",
+            "Votes": 529533
+        },
+        {
+            "Candidate": "JASHUBHAI BHILUBHAI RATHVA",
+            "Votes": 796589
+        },
+        {
+            "Candidate": "JASWANTSINH SUMANBHAI BHABHOR",
+            "Votes": 688715
+        },
+        {
+            "Candidate": "JITIN PRASADA",
+            "Votes": 607158
+        },
+        {
+            "Candidate": "JUAL ORAM",
+            "Votes": 494282
+        },
+        {
+            "Candidate": "JUGAL KISHORE",
+            "Votes": 687588
+        },
+        {
+            "Candidate": "JYOTIRADITYA M. SCINDIA",
+            "Votes": 923302
+        },
+        {
+            "Candidate": "JYOTIRMAY SINGH MAHATO",
+            "Votes": 578489
+        },
+        {
+            "Candidate": "KALI CHARAN SINGH",
+            "Votes": 574556
+        },
+        {
+            "Candidate": "KAMAKHYA PRASAD TASA",
+            "Votes": 897043
+        },
+        {
+            "Candidate": "KAMALJEET SEHRAWAT",
+            "Votes": 842658
+        },
+        {
+            "Candidate": "KAMLESH JANGDE",
+            "Votes": 678199
+        },
+        {
+            "Candidate": "KAMLESH PASWAN",
+            "Votes": 428693
+        },
+        {
+            "Candidate": "KANGNA RANAUT",
+            "Votes": 537022
+        },
+        {
+            "Candidate": "KANWAR SINGH TANWAR",
+            "Votes": 476506
+        },
+        {
+            "Candidate": "KARAN BHUSHAN SINGH",
+            "Votes": 571263
+        },
+        {
+            "Candidate": "KARTICK CHANDRA PAUL",
+            "Votes": 560897
+        },
+        {
+            "Candidate": "KHADSE RAKSHA NIKHIL",
+            "Votes": 630879
+        },
+        {
+            "Candidate": "KHAGEN MURMU",
+            "Votes": 527023
+        },
+        {
+            "Candidate": "KHAN SAUMITRA",
+            "Votes": 680130
+        },
+        {
+            "Candidate": "KIREN RIJIJU",
+            "Votes": 205417
+        },
+        {
+            "Candidate": "KIRTIVARDHAN SINGH",
+            "Votes": 474258
+        },
+        {
+            "Candidate": "KONDA VISHWESHWAR REDDY",
+            "Votes": 809882
+        },
+        {
+            "Candidate": "KOTA SRINIVAS POOJARY",
+            "Votes": 732234
+        },
+        {
+            "Candidate": "KRIPANATH MALLAH",
+            "Votes": 545093
+        },
+        {
+            "Candidate": "KRISHAN PAL",
+            "Votes": 788569
+        },
+        {
+            "Candidate": "KRITI DEVI DEBBARMAN",
+            "Votes": 777447
+        },
+        {
+            "Candidate": "LUMBARAM",
+            "Votes": 796783
+        },
+        {
+            "Candidate": "MADHAVANENI RAGHUNANDAN RAO",
+            "Votes": 471217
+        },
+        {
+            "Candidate": "MAHENDRA SINGH SOLANKY",
+            "Votes": 928941
+        },
+        {
+            "Candidate": "MAHESH KASHYAP",
+            "Votes": 458398
+        },
+        {
+            "Candidate": "MAHIMA KUMARI MEWAR",
+            "Votes": 781203
+        },
+        {
+            "Candidate": "MALA RAJYA LAKSHMI SHAH",
+            "Votes": 462603
+        },
+        {
+            "Candidate": "MALVIKA DEVI",
+            "Votes": 544303
+        },
+        {
+            "Candidate": "MANISH JAISWAL",
+            "Votes": 654613
+        },
+        {
+            "Candidate": "MANJU SHARMA",
+            "Votes": 886850
+        },
+        {
+            "Candidate": "MANNA LAL RAWAT",
+            "Votes": 738286
+        },
+        {
+            "Candidate": "MANOHAR LAL",
+            "Votes": 739285
+        },
+        {
+            "Candidate": "MANOJ TIGGA",
+            "Votes": 695314
+        },
+        {
+            "Candidate": "MANOJ TIWARI",
+            "Votes": 824451
+        },
+        {
+            "Candidate": "MANSUKHBHAI DHANJIBHAI VASAVA",
+            "Votes": 608157
+        },
+        {
+            "Candidate": "MITESH PATEL (BAKABHAI)",
+            "Votes": 612484
+        },
+        {
+            "Candidate": "MUKESH RAJPUT",
+            "Votes": 487963
+        },
+        {
+            "Candidate": "MURLIDHAR MOHOL",
+            "Votes": 584728
+        },
+        {
+            "Candidate": "NABA CHARAN MAJHI",
+            "Votes": 585971
+        },
+        {
+            "Candidate": "NARAYAN TATU RANE",
+            "Votes": 448514
+        },
+        {
+            "Candidate": "NARENDRA MODI",
+            "Votes": 612970
+        },
+        {
+            "Candidate": "NAVEEN JINDAL",
+            "Votes": 542175
+        },
+        {
+            "Candidate": "NIMUBEN JAYANTIBHAI BAMBHANIYA (NIMUBEN BAMBHANIYA)",
+            "Votes": 716883
+        },
+        {
+            "Candidate": "NISHIKANT DUBEY",
+            "Votes": 693140
+        },
+        {
+            "Candidate": "NITIN JAIRAM GADKARI",
+            "Votes": 655027
+        },
+        {
+            "Candidate": "NITYANAND RAI",
+            "Votes": 515965
+        },
+        {
+            "Candidate": "OM BIRLA",
+            "Votes": 750496
+        },
+        {
+            "Candidate": "P C MOHAN",
+            "Votes": 658915
+        },
+        {
+            "Candidate": "P. P. CHAUDHARY",
+            "Votes": 757389
+        },
+        {
+            "Candidate": "PANKAJ CHAUDHARY",
+            "Votes": 591310
+        },
+        {
+            "Candidate": "PARBHUBHAI NAGARBHAI VASAVA",
+            "Votes": 763950
+        },
+        {
+            "Candidate": "PARIMAL SUKLABAIDYA",
+            "Votes": 652405
+        },
+        {
+            "Candidate": "PARSHOTTAMBHAI RUPALA",
+            "Votes": 857984
+        },
+        {
+            "Candidate": "PIYUSH GOYAL",
+            "Votes": 680146
+        },
+        {
+            "Candidate": "POONAMBEN HEMATBHAI MAADAM",
+            "Votes": 620049
+        },
+        {
+            "Candidate": "PRADAN BARUAH",
+            "Votes": 663122
+        },
+        {
+            "Candidate": "PRADEEP KUMAR SINGH",
+            "Votes": 600146
+        },
+        {
+            "Candidate": "PRADEEP PUROHIT",
+            "Votes": 716359
+        },
+        {
+            "Candidate": "PRALHAD JOSHI",
+            "Votes": 716231
+        },
+        {
+            "Candidate": "PRATAP CHANDRA SARANGI",
+            "Votes": 563865
+        },
+        {
+            "Candidate": "PRAVEEN KHANDELWAL",
+            "Votes": 516496
+        },
+        {
+            "Candidate": "PRAVEEN PATEL",
+            "Votes": 452600
+        },
+        {
+            "Candidate": "PROF S P SINGH BAGHEL",
+            "Votes": 599397
+        },
+        {
+            "Candidate": "RABINDRA NARAYAN BEHERA",
+            "Votes": 534239
+        },
+        {
+            "Candidate": "RADHA MOHAN SINGH",
+            "Votes": 542193
+        },
+        {
+            "Candidate": "RADHESHYAM RATHIYA",
+            "Votes": 808275
+        },
+        {
+            "Candidate": "RAHUL SINGH LODHI",
+            "Votes": 709768
+        },
+        {
+            "Candidate": "RAJ BHUSHAN CHOUDHARY",
+            "Votes": 619749
+        },
+        {
+            "Candidate": "RAJ NATH SINGH",
+            "Votes": 612709
+        },
+        {
+            "Candidate": "RAJIV PRATAP RUDY",
+            "Votes": 471752
+        },
+        {
+            "Candidate": "RAJKUMAR CHAHAR",
+            "Votes": 445657
+        },
+        {
+            "Candidate": "RAJPALSINH MAHENDRASINH JADAV",
+            "Votes": 794579
+        },
+        {
+            "Candidate": "RAJU BISTA",
+            "Votes": 679331
+        },
+        {
+            "Candidate": "RAMESH AWASTHI",
+            "Votes": 443055
+        },
+        {
+            "Candidate": "RAMESH JIGAJINAGI",
+            "Votes": 672781
+        },
+        {
+            "Candidate": "RAMVIR SINGH BIDHURI",
+            "Votes": 692832
+        },
+        {
+            "Candidate": "RANJIT DUTTA",
+            "Votes": 775788
+        },
+        {
+            "Candidate": "RAO INDERJIT SINGH",
+            "Votes": 808336
+        },
+        {
+            "Candidate": "RAO RAJENDRA SINGH",
+            "Votes": 617877
+        },
+        {
+            "Candidate": "RAVI SHANKAR PRASAD",
+            "Votes": 588270
+        },
+        {
+            "Candidate": "RAVINDRA SHUKLA ALIAS RAVI KISHAN",
+            "Votes": 585834
+        },
+        {
+            "Candidate": "RODMAL NAGAR",
+            "Votes": 758743
+        },
+        {
+            "Candidate": "ROOP KUMARI CHOUDHARY",
+            "Votes": 703659
+        },
+        {
+            "Candidate": "RUDRA NARAYAN PANY",
+            "Votes": 598721
+        },
+        {
+            "Candidate": "SAMBIT PATRA",
+            "Votes": 629330
+        },
+        {
+            "Candidate": "SANDHYA RAY",
+            "Votes": 537065
+        },
+        {
+            "Candidate": "SANGEETA KUMARI SINGH DEO",
+            "Votes": 617744
+        },
+        {
+            "Candidate": "SANJAY SETH",
+            "Votes": 664732
+        },
+        {
+            "Candidate": "SANTOSH PANDEY",
+            "Votes": 712057
+        },
+        {
+            "Candidate": "SARBANANDA SONOWAL",
+            "Votes": 693762
+        },
+        {
+            "Candidate": "SATISH KUMAR GAUTAM",
+            "Votes": 501834
+        },
+        {
+            "Candidate": "SAVITRI THAKUR",
+            "Votes": 794449
+        },
+        {
+            "Candidate": "SHANKAR LALWANI",
+            "Votes": 1226751
+        },
+        {
+            "Candidate": "SHANTANU THAKUR",
+            "Votes": 719505
+        },
+        {
+            "Candidate": "SHASHANK MANI",
+            "Votes": 504541
+        },
+        {
+            "Candidate": "SHIVMANGAL SINGH TOMAR",
+            "Votes": 515477
+        },
+        {
+            "Candidate": "SHIVRAJ SINGH CHOUHAN",
+            "Votes": 1116460
+        },
+        {
+            "Candidate": "SHOBHA KARANDLAJE",
+            "Votes": 986049
+        },
+        {
+            "Candidate": "SHOBHANABEN MAHENDRASINH BARAIYA",
+            "Votes": 677318
+        },
+        {
+            "Candidate": "SHRIMANT CHH UDAYANRAJE PRATAPSINHAMAHARAJ BHONSLE",
+            "Votes": 571134
+        },
+        {
+            "Candidate": "SHRIPAD YESSO NAIK",
+            "Votes": 257326
+        },
+        {
+            "Candidate": "SMITA UDAY WAGH",
+            "Votes": 674428
+        },
+        {
+            "Candidate": "SMT. HIMADRI SINGH",
+            "Votes": 711143
+        },
+        {
+            "Candidate": "SUDHEER GUPTA",
+            "Votes": 945761
+        },
+        {
+            "Candidate": "SUKANTA KUMAR PANIGRAHI",
+            "Votes": 416415
+        },
+        {
+            "Candidate": "SUKANTA MAJUMDAR",
+            "Votes": 574996
+        },
+        {
+            "Candidate": "SURESH GOPI",
+            "Votes": 412338
+        },
+        {
+            "Candidate": "SWAMI SACHCHIDANAND HARI SAKSHI",
+            "Votes": 616133
+        },
+        {
+            "Candidate": "Suresh Kumar Kashyap",
+            "Votes": 519748
+        },
+        {
+            "Candidate": "TAPIR GAO",
+            "Votes": 145581
+        },
+        {
+            "Candidate": "TEJASVI SURYA",
+            "Votes": 750830
+        },
+        {
+            "Candidate": "TOKHAN SAHU",
+            "Votes": 724937
+        },
+        {
+            "Candidate": "TRIVENDRA SINGH RAWAT",
+            "Votes": 653808
+        },
+        {
+            "Candidate": "V. SOMANNA",
+            "Votes": 720946
+        },
+        {
+            "Candidate": "VIJAY BAGHEL",
+            "Votes": 956497
+        },
+        {
+            "Candidate": "VIJAY KUMAR DUBAY",
+            "Votes": 516345
+        },
+        {
+            "Candidate": "VISHNU DATT SHARMA (V.D.SHARMA)",
+            "Votes": 772774
+        },
+        {
+            "Candidate": "VISHNU DAYAL RAM",
+            "Votes": 770362
+        },
+        {
+            "Candidate": "VISHWESHWAR HEGDE KAGERI",
+            "Votes": 782495
+        },
+        {
+            "Candidate": "VIVEK THAKUR",
+            "Votes": 410608
+        },
+        {
+            "Candidate": "YADUVEER KRISHNADATTA CHAMARAJA WADIYAR",
+            "Votes": 795503
+        },
+        {
+            "Candidate": "YOGENDER CHANDOLIYA",
+            "Votes": 866483
+        }
+    ],
+    "Top 10 Candidates": [
+        {
+            "Constituency": "INDORE(26)",
+            "Candidate": "SHANKAR LALWANI",
+            "Votes": 1226751
+        },
+        {
+            "Constituency": "VIDISHA(18)",
+            "Candidate": "SHIVRAJ SINGH CHOUHAN",
+            "Votes": 1116460
+        },
+        {
+            "Constituency": "Bangalore Rural(23)",
+            "Candidate": "DR C N MANJUNATH",
+            "Votes": 1079002
+        },
+        {
+            "Constituency": "RAIPUR(8)",
+            "Candidate": "BRIJMOHAN AGRAWAL",
+            "Votes": 1050351
+        },
+        {
+            "Constituency": "Navsari(25)",
+            "Candidate": "C R PATIL",
+            "Votes": 1031065
+        },
+        {
+            "Constituency": "Gandhinagar(6)",
+            "Candidate": "AMIT SHAH",
+            "Votes": 1010972
+        },
+        {
+            "Constituency": "Malkajgiri(7)",
+            "Candidate": "EATALA RAJENDER",
+            "Votes": 991042
+        },
+        {
+            "Constituency": "Bangalore North(24)",
+            "Candidate": "SHOBHA KARANDLAJE",
+            "Votes": 986049
+        },
+        {
+            "Constituency": "BHOPAL(19)",
+            "Candidate": "ALOK SHARMA",
+            "Votes": 981109
+        },
+        {
+            "Constituency": "DURG(7)",
+            "Candidate": "VIJAY BAGHEL",
+            "Votes": 956497
+        }
+    ],
+    "Constituency with Highest Voter Turnout": {
+        "Constituency": "INDORE(26)",
+        "Candidate": "SHANKAR LALWANI",
+        "Votes": 1226751
+    }
+}
